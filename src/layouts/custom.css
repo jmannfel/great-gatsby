@@ -1,0 +1,12 @@
+/* Custom CSS */
+
+body {
+  background-color: #7fffd4;
+}
+
+.main {
+  background-color: #7fffd4;
+  background-image: url("../images/diagonal-stripes.svg"),
+    linear-gradient(110deg, #7fffd4, #87d8f6
+);
+}
