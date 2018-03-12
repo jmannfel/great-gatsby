@@ -3,7 +3,7 @@ module.exports = {
     title: 'Great Gatsby',
     desc: 'A working Gatsby site',
   },
-  pathPrefix: "/gatsby",
+  pathPrefix: "/great-gatsby",
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-styled-components',
