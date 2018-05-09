@@ -5,7 +5,7 @@ image: /static/assets/img_9438.jpg
 ---
 Tumeric truffaut crucifix intelligentsia unicorn kickstarter try-hard, hell of tousled twee neutra cardigan bicycle rights chartreuse. Migas heirloom la croix, DIY pop-up chambray portland biodiesel. PBR&B listicle prism, 8-bit chartreuse tumblr hella bicycle rights unicorn hashtag biodiesel pop-up vape. Man braid organic copper mug crucifix swag.
 
-![Working on the new site](/static/assets/img_9438.jpg)
+![Working on the new site](/assets/img_9438.jpg)
 
 <!-- end -->
 
