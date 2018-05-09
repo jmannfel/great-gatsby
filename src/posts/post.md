@@ -1,13 +1,13 @@
 ---
 title: Welcome to the New Website
 date: '2018-03-08'
-image: /static/assets/img_9438.jpg
+image: /assets/img_9438.jpg
 ---
 Tumeric truffaut crucifix intelligentsia unicorn kickstarter try-hard, hell of tousled twee neutra cardigan bicycle rights chartreuse. Migas heirloom la croix, DIY pop-up chambray portland biodiesel. PBR&B listicle prism, 8-bit chartreuse tumblr hella bicycle rights unicorn hashtag biodiesel pop-up vape. Man braid organic copper mug crucifix swag.
 
-![Working on the new site](/assets/img_9438.jpg)
-
 <!-- end -->
+
+![Working on the new site!](/assets/img_9438.jpg)
 
 * This
 * Is
