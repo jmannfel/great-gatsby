@@ -5,11 +5,17 @@ module.exports = {
   },
   pathPrefix: "/great-gatsby",
   plugins: [
+    {
+      resolve: "gatsby-source-contentful",
+      options: {
+        spaceId: "6jc66lyfi8yz",
+        accessToken: "13ecdd49ed0ad76e5ce8017e666b5adb75a652aed6f79184ec210b2dd7288c93"
+      }
+    },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-styled-components',
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
-    'gatsby-plugin-netlify-cms',
     {
       resolve: "gatsby-source-filesystem",
       options: {

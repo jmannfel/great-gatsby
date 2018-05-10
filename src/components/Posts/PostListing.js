@@ -27,13 +27,13 @@ const Article = styled.article`
 const PostListing = ({post}) => 
     <Article>
         <h3>
-            <Link to={post.fields.slug}>{post.frontmatter.title}</Link>
+            <Link to={post.slug}>{post.title}</Link>
         </h3>
         <span>
-            {post.frontmatter.date}
+            {post.createdAt}
         </span>
         <p>
-            {post.excerpt}
+            {post.body.childMarkdownRemark.excerpt}
         </p>
     </Article>;
 
