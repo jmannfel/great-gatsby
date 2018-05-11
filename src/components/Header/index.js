@@ -17,6 +17,8 @@ const HeaderWrapper = styled.div`
       height: 95px;
     }
   }
+  -webkit-clip-path: polygon(0 0, 100% 0, 100% 94%, 0 100%);
+  clip-path: polygon(0 0, 100% 0, 100% 94%, 0 100%)
 `;
 
 const HeaderContainer = styled.div`
